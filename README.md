@@ -1,1 +1,1 @@
-HOJE VI COMO FAZ UMA PUBLICAÇAO E COMO APAGAR UM REPOSITORIO.
+Projeto desenvolvido para a apresentação da matéria de Front-end, no qual ficamos responsáveis pela criação de um site para uma ONG fictícia, criada por nós especialmente para a realização do trabalho.
